@@ -10,4 +10,3 @@ Each copy should have a name of this format: `input_copy_no_<id>.tsv` where
 
 I have created list of project related responsibilty and other lab management things in `to_do.tsv`. Now, you want to everyone's task in separate files. The output should be in the format `to_do_<name>.tsv`.
 Please write a rule in sankemake to do this.
-`
