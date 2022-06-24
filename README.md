@@ -20,3 +20,5 @@ To run the snakemake, please run the following:
 ```
 $ snakemake -np --snakefile copy.smk <output_file>
 ```
+
+Please remove `-np` flag to run the command in real.
