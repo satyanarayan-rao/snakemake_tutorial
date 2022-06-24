@@ -14,3 +14,9 @@ rule copy_file:
     shell:
         <write your command here>
 ```
+
+To run the snakemake, please run the following:
+
+```
+$ snakemake -np --snakefile copy.smk <output_file>
+```
