@@ -31,6 +31,6 @@ Here is the experiment that we want to try: Given a set of integers from `1` to
 so that the mean of draw converges to mean of the numbers from `1` to `n` i.e.,
 (n+1)/2. 
 
-Please write a snakemake pipeline to produce a figure like the following: 
+Please write a snakemake pipeline to produce a figure like the following for n = 1000, and repeating draw k 10 times: 
 
 ![Experiment](plots/experiment_for_1000.png)
