@@ -33,4 +33,4 @@ so that the mean of draw converges to mean of the numbers from `1` to `n` i.e.,
 
 Please write a snakemake pipeline to produce a figure like the following: 
 
-![Experiment]("plots/experiment_for_1000.png")
+![Experiment](plots/experiment_for_1000.png)
